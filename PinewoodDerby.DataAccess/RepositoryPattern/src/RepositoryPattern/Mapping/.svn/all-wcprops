@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/31/trunk/RepositoryPattern/src/RepositoryPattern/Mapping
+END
+ProductMap.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/31/trunk/RepositoryPattern/src/RepositoryPattern/Mapping/ProductMap.cs
+END
+Product.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/31/trunk/RepositoryPattern/src/RepositoryPattern/Mapping/Product.hbm.xml
+END

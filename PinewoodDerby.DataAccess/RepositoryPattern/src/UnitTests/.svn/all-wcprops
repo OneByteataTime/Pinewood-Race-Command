@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/32/trunk/RepositoryPattern/src/UnitTests
+END
+ProductRepositoryNH_Tester.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/31/trunk/RepositoryPattern/src/UnitTests/ProductRepositoryNH_Tester.cs
+END
+UnitTests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/31/trunk/RepositoryPattern/src/UnitTests/UnitTests.csproj
+END
+FakeRepositoryTester.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/31/trunk/RepositoryPattern/src/UnitTests/FakeRepositoryTester.cs
+END
+SpecificationExtensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/31/trunk/RepositoryPattern/src/UnitTests/SpecificationExtensions.cs
+END
+FixtureBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/31/trunk/RepositoryPattern/src/UnitTests/FixtureBase.cs
+END
+RepositoryFixtureBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/31/trunk/RepositoryPattern/src/UnitTests/RepositoryFixtureBase.cs
+END
+ProductRepository_Tester.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/32/trunk/RepositoryPattern/src/UnitTests/ProductRepository_Tester.cs
+END

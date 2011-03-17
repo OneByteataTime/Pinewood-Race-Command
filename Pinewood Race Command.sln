@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pinewood Race Command", "Pinewood Race Command\Pinewood Race Command.csproj", "{C836D4A3-861D-4776-9376-43BA3B6EA3F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinewoodDerby.DataAccess", "PinewoodDerby.DataAccess\PinewoodDerby.DataAccess.csproj", "{05650A33-2EBC-43A4-86DD-42A4BEB347D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinewoodDerby.Tests", "PinewoodDerby.Tests\PinewoodDerby.Tests.csproj", "{55E20D66-DBC0-4753-9142-2DDB4983C60A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C836D4A3-861D-4776-9376-43BA3B6EA3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C836D4A3-861D-4776-9376-43BA3B6EA3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C836D4A3-861D-4776-9376-43BA3B6EA3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C836D4A3-861D-4776-9376-43BA3B6EA3F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05650A33-2EBC-43A4-86DD-42A4BEB347D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05650A33-2EBC-43A4-86DD-42A4BEB347D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05650A33-2EBC-43A4-86DD-42A4BEB347D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05650A33-2EBC-43A4-86DD-42A4BEB347D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E20D66-DBC0-4753-9142-2DDB4983C60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E20D66-DBC0-4753-9142-2DDB4983C60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E20D66-DBC0-4753-9142-2DDB4983C60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E20D66-DBC0-4753-9142-2DDB4983C60A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

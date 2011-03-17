@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tournamentTemplate>
+  <!-- These nodes designate what bracket to send 
+       the winner of the race to (ie R1:B1 (race1 bracket 1 
+       goes to R2:B1 (race 2 bracket 1) -->
+  <raceTemplate>
+    <race key="R1:B1" winnerKey="R2:B1"></race>
+    <race key="R1:B2" winnerKey="R2:B1"></race>
+    <race key="R1:B3" winnerKey="R2:B2"></race>
+    <race key="R1:B4" winnerKey="R2:B2"></race>
+    <race key="R1:B5" winnerKey="R2:B3"></race>
+    <race key="R1:B6" winnerKey="R2:B3"></race>
+    <race key="R1:B7" winnerKey="R2:B4"></race>
+    <race key="R1:B8" winnerKey="R2:B4"></race>
+    <race key="R2:B1" winnerKey="R3:B1"></race>
+    <race key="R2:B2" winnerKey="R3:B1"></race>
+    <race key="R2:B3" winnerKey="R3:B2"></race>
+    <race key="R2:B4" winnerKey="R3:B2"></race>
+    <race key="R3:B1" winnerKey="R4:B1"></race>
+    <race key="R3:B2" winnerKey="R4:B1"></race>
+    <race key="R4:B1" winnerKey=""></race>
+  </raceTemplate>
+  
+  <!-- This template sets which seeds run in which brackets -->
+  <bracketTemplate>
+    <bracket raceKey="R1:B1">
+      <seed index="0"></seed>
+      <seed index="15"></seed>
+    </bracket>
+    <bracket raceKey="R1:B2">
+      <seed index="7"></seed>
+      <seed index="8"></seed>
+    </bracket>
+    <bracket raceKey="R1:B3">
+      <seed index="3"></seed>
+      <seed index="12"></seed>
+    </bracket>
+    <bracket raceKey="R1:B4">
+      <seed index="4"></seed>
+      <seed index="11"></seed>
+    </bracket>
+    <bracket raceKey="R1:B5">
+      <seed index="1"></seed>
+      <seed index="14"></seed>
+    </bracket>
+    <bracket raceKey="R1:B6">
+      <seed index="6"></seed>
+      <seed index="9"></seed>
+    </bracket>
+    <bracket raceKey="R1:B7">
+      <seed index="2"></seed>
+      <seed index="13"></seed>
+    </bracket>
+    <bracket raceKey="R1:B8">
+      <seed index="5"></seed>
+      <seed index="10"></seed>
+    </bracket>
+  </bracketTemplate>
+</tournamentTemplate>

@@ -1,0 +1,9 @@
+Lane 1 =  1.2531
+Lane 2 =  1.4212
+Lane 3 =  2.2676
+Lane 4 =  2.8646
+Lane 5 Did Not Finish
+Lane 6 Did Not Finish
+Lane 7 Did Not Finish
+Lane 8 Did Not Finish
+Waiting to Start

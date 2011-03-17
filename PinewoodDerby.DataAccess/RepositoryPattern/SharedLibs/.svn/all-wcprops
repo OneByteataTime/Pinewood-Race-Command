@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs
+END
+Iesi.Collections.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs/Iesi.Collections.dll
+END
+FluentNHibernate.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs/FluentNHibernate.pdb
+END
+nunit.framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs/nunit.framework.dll
+END
+FluentNHibernate.Framework.dll
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs/FluentNHibernate.Framework.dll
+END
+Rhino.Mocks.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs/Rhino.Mocks.dll
+END
+nhibernate-mapping.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs/nhibernate-mapping.xsd
+END
+log4net.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs/log4net.dll
+END
+System.Data.SQLite.DLL
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs/System.Data.SQLite.DLL
+END
+FluentNHibernate.dll
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs/FluentNHibernate.dll
+END
+NHibernate.dll
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs/NHibernate.dll
+END
+Castle.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs/Castle.Core.dll
+END
+Castle.DynamicProxy2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs/Castle.DynamicProxy2.dll
+END
+FluentNHibernate.Framework.pdb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/31/trunk/RepositoryPattern/SharedLibs/FluentNHibernate.Framework.pdb
+END

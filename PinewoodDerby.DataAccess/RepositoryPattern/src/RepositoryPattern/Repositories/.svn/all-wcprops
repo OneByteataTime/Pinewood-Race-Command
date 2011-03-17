@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/32/trunk/RepositoryPattern/src/RepositoryPattern/Repositories
+END
+IOrderRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/31/trunk/RepositoryPattern/src/RepositoryPattern/Repositories/IOrderRepository.cs
+END
+IRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/31/trunk/RepositoryPattern/src/RepositoryPattern/Repositories/IRepository.cs
+END
+IProductRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/32/trunk/RepositoryPattern/src/RepositoryPattern/Repositories/IProductRepository.cs
+END
